@@ -237,5 +237,6 @@
   }
 
 .center {
+    display: flex;
     margin: auto;
 }
